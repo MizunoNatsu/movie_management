@@ -1,0 +1,1 @@
+Java Web movie management system developed with Servlet, JDBC and Thymeleaf. Combined with Python crawler to realize automatic collection and batch import of movie data, supporting movie CRUD and self-designed heat ranking algorithm
